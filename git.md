@@ -40,7 +40,7 @@
     1. `untracked` : git이 관리하지 않는 파일
     2. `tracked` : git이 관리하는 파일
        1. `Unmodified` : 최신 상태
-       2. `Modified` : 수정되었지만 Staging Area에 반영되기 전 상태
+       2. `Modified` : 수정되었지만 commit을 남기기 전 상태
        3. `staged` : Staging Arda에 반영된 상태
 
   ### git add
